@@ -4,6 +4,8 @@ colours
 red
 green
 blue
+pink
+yellow
 
 
 end of th poem....
