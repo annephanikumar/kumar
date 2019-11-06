@@ -1,8 +1,8 @@
 hello i am creating poem
 
 colours
-red
-green
+red and red
+green and greeen 
 blue
 pink
 yellow
